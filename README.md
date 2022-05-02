@@ -1,2 +1,2 @@
-# sandbox-react5
+# sandbox-react
 Created with CodeSandbox
